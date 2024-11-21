@@ -31,7 +31,7 @@ The **Expense Tracker Application** is a Python-based tool designed to help user
 ## Example ScreenShots
 
 ### Interface
-![Interface](./img/interface.png)
+![Interface](./img/Interface.png)
 
 ### Desired Result
 ![result](./img/result.png)
