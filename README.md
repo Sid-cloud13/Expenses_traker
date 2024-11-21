@@ -45,7 +45,7 @@ pip install pandas
 ### Running the Application
 1. Download or clone the repository:
    ```bash
-   git clone https://github.com/your-repo/expense-tracker.git
+   git clone https://github.com/Sid-cloud13/Expenses_traker.git
    cd expense-tracker
    ```
 2. Run the application:
