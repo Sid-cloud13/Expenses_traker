@@ -28,6 +28,14 @@ The **Expense Tracker Application** is a Python-based tool designed to help user
 
 ---
 
+## Example ScreenShots
+
+### Interface
+![Interface](./img/interface.png)
+
+### Desired Result
+![result](./img/result.png)
+
 ## 🛠️ Installation
 
 ### Prerequisites
@@ -112,18 +120,6 @@ README.md            # Documentation file
   - Filter expenses by date, category, or amount.
   - Generate graphical reports and summaries.
   - Introduce category customization (add/remove categories).
-
----
-
-## ❤️ Contributions
-
-Contributions are welcome! Feel free to fork the repository, suggest features, or report bugs via GitHub issues.
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
 ---
 
